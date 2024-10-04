@@ -42,7 +42,7 @@ In this task, you are continuing work from the previous project, focusing on Doc
 ### Steps
 
 1. Downlaod code from the Task Resources and unzip.
-2. Create a github repository named : <your-name-sit722-part2> .
+2. Create a github repository.
 3. Add given code to a github repository (local first then push to the remote repo).
 4. Write Dockerfile.
 5. Create deployment.yaml for each microservice.
