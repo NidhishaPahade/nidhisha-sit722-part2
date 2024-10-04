@@ -1,4 +1,4 @@
-# Cloud-Native DevOps Project (Part 1 of 5)
+# Cloud-Native DevOps Project (Part 2 of 5)
 
 ## Background
 
