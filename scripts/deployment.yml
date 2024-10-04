@@ -23,7 +23,7 @@ spec:
         - name: PORT
           value: "8080"
         - name: DATABASE_URL
-          value: "postgresql://<db-username>:<db-password>@<postgres-host>:<db-port>/<db-name>"
+          value: "postgresql://book_catalog_x3zi_user:bvgbCTfRiJ1I6imjcW2jNG972N6LuLdP@dpg-crvkrr1u0jms73dpjcvg-a.oregon-postgres.render.com/book_catalog_x3zi"
         
 ---
 apiVersion: v1
